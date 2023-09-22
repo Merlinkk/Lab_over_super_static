@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png);  */
+}
+
+body{
+    /* background-color: #747272; */
+    background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png);
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+img{
+    margin-left: 40%;
+}
+
+#IND-scoreboard{
+    background-color: #10589D;
+    border: 2px solid black;  
+    height: 300px;
+    width: 300px; 
+    border-radius: 5%;
+    text-align: center;
+    font-size: 40px;
+    display: inline-block;
+    
+}
+#PAK-scoreboard{
+    background-color: #40983E;
+    border: 2px solid black; 
+    height: 300px;
+    width: 300px; 
+    border-radius: 5%; 
+    text-align: center;
+    font-size: 40px;
+    display: inline-block;
+}
+
+.ball{
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+section{
+    text-align: center;
+    
+}
+
+.button {
+    width: 70px;
+    margin: 0px ;
+    padding:50px;
+  }
+
